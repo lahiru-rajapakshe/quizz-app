@@ -1,7 +1,11 @@
 import {useState} from "react";
 import QuizScreen from "./components/QuizScreen.js";
-import QuizScreen from "./components/JoinScreen.js";
+import JoinScreen from "./components/JoinScreen.js";
+import Navbar from "./components/NavBar.js";
+
+
 function App(){
+
 const[isQuizStarted,setIsQuizStarted]=useState(false);
 
 return(
