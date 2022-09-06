@@ -1,4 +1,4 @@
 function QuizScreen(){
     return "quiz-screen";
 }
-export default ;
+export default QuizScreen;
