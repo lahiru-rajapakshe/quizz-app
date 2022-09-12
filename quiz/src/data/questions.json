@@ -1,0 +1,12 @@
+[
+    {
+        "json":"what is you name ?",
+        "options":["lahiru","lahiru2","lahiru 3","lahiru 4"],
+        "correctOptionIndex":"2"
+    },
+    {
+        "json":"what is you name 2 ?",
+        "options":["san ","san2","san 3","lahiru 4"],
+        "correctOptionIndex":"3"
+    }
+]
