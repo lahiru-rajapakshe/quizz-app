@@ -15,11 +15,7 @@ function QuizScreen(){
                     question={QuestionList[currentQuestionIndex]}
                     totalQuestions={ QuestionList.length}
                     currentQuestion={currentQuestionIndex+1}
-                    setAnswer={{index}=>{
-                        setMarkedAnswers((arr)=>
-                        {
-
-                        });
+                    
                     }}
                     
                     
