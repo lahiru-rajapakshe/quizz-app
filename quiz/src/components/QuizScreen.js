@@ -2,6 +2,7 @@
 import QuestionList from "../data/questions.json";
 import QuizResult from "./QuizResult.js/";
 import Question from "./Question.js/";
+import {useState} from "react";
 
 
 function QuizScreen(){
